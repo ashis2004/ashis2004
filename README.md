@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar Patel</h1>
 <h3 align="center">A passionate frontend Developer & Data Engineer</h3>
 
-- 📫 How to reach me **ap550083@gmail.com**
+- 📫 How to reach me **coashish.08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
